@@ -1,0 +1,6 @@
+{
+	"name": "FbPipelineIntegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
