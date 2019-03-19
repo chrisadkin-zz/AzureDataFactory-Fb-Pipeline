@@ -15,7 +15,8 @@
 				"treatEmptyAsNull": true,
 				"skipLineCount": 0,
 				"firstRowAsHeader": false
-			}
+			},
+			"bucketName": "adf-bucket-01"
 		}
 	}
 }
