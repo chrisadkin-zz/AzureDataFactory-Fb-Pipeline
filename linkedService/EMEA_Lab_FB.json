@@ -4,9 +4,9 @@
 	"properties": {
 		"type": "AmazonS3",
 		"typeProperties": {
-			"serviceUrl": "http://192.168.4.101",
+			"serviceUrl": "http://10.225.112.238",
 			"accessKeyId": "PSFBIAZFOCAAICFI",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJlMTFiYmNiNC01YWIzLTQwNmItYTE2OS01MGQxNTIzYmI5ZTciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1ZWMxNDE4MC01ZDA3LTQ2ZGEtYTQ3Zi0wNzhlYWNiMDIzZjQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "FbPipelineIntegrationRuntime",
