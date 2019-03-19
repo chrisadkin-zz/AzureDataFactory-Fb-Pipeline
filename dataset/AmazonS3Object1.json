@@ -8,13 +8,8 @@
 		"type": "AmazonS3Object",
 		"typeProperties": {
 			"format": {
-				"type": "TextFormat",
-				"columnDelimiter": ",",
-				"rowDelimiter": "",
-				"nullValue": "\\N",
-				"treatEmptyAsNull": true,
-				"skipLineCount": 0,
-				"firstRowAsHeader": false
+				"type": "JsonFormat",
+				"filePattern": "setOfObjects"
 			},
 			"bucketName": "adf-bucket-01"
 		}
